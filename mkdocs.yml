@@ -1,12 +1,12 @@
 # Project information
-site_name: Guia de Estudos Cisco ACI
-site_description: Guia de Estudos Cisco ACI
+site_name: Guia de Estudos
+site_description: Guia de Estudos
 site_author: Weslley Silva
-site_url: https://infra.expert/cisco_aci/
+site_url: https://infra.expert/
 
 # Repository
-repo_name: weslleycsil/estudos-certificacoes
-repo_url: https://github.com/weslleycsil/estudos-certificacoes/tree/main/cisco/cisco_aci
+repo_name: weslleycsil/estudos
+repo_url: https://github.com/weslleycsil/
 
 # Copyright
 copyright: Weslley Silva &copy; 2024
